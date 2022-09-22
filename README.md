@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Li Chang Zhang xiaoyuzhang668@gmail.com
+- 👋 Hi, I’m Cathy Zhang
 - 👀 I’m interested in building website. 
 - 🌱 I’m currently learning Java. 
 - 💞️ I’m looking to collaborate on ...
