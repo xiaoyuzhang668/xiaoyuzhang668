@@ -2,7 +2,7 @@
 - 👀 I’m interested in building website. 
 - 🌱 I’m currently learning Java. 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me xiaoyuzhang668@gmail.com.  <a href="cathyzhang.xyz/wechat.jpg">WeChat</a>
+- 📫 How to reach me xiaoyuzhang668@gmail.com.  <a href="https://cathyzhang.xyz/wechat.jpg">WeChat</a>
 
 <!---
 xiaoyuzhang668/xiaoyuzhang668 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
